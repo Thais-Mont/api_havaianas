@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "Chinelo Havaianas Disney Margarida",
+    "descricao":
+      "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto1": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_margarida1.png?raw=true",
+    "foto2": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_margarida2.png?raw=true",
+    "preco": 39.90
+  },
+  {
+    "titulo": "Chinelo Havaianas Disney Mickey",
+    "descricao":
+      "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto1": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_mickey1.png?raw=true",
+    "foto2": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_mickey2.png?raw=true",
+    "preco": 39.90
+  },
+  {
+    "titulo": "Chinelo Havaianas Disney Minnie",
+    "descricao":
+      "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto1": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_minnie1.png?raw=true",
+    "foto2": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_minnie2.png?raw=true",
+    "preco": 39.90
+  },
+  {
+    "titulo": "Chinelo Havaianas Disney Pateta",
+    "descricao":
+      "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto1": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_pateta1.png?raw=true",
+    "foto2": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_pateta2.png?raw=true",
+    "preco": 39.90
+  },
+  {
+    "titulo": "Chinelo Havaianas Disney Pluto",
+    "descricao":
+      "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto1": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_pluto1.png?raw=true",
+    "foto2": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_pluto2.png?raw=true",
+    "preco": 39.90
+  },
+  {
+    "titulo": "Chinelo Havaianas Disney Love",
+    "descricao":
+      "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
+    "foto1": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_love1.png?raw=true",
+    "foto2": "https://github.com/Thais-Mont/havaianas-projeto02-pt01-blueedtech/blob/main/src/assets/images/colecao01_love2.png?raw=true",
+    "preco": 39.90
+  }
+]
